@@ -1,0 +1,80 @@
+{
+    "json": {
+        "name": "Json",
+        "desc": "Beautify JSON",
+        "icon": "code-json",
+        "dialog": false
+    },
+    "javascript": {
+        "name": "Javascript",
+        "desc": "Beautify JavaScript",
+        "icon": "language-javascript",
+        "dialog": false
+    },
+    "html": {
+        "name": "Html",
+        "desc": "Beautify HTML",
+        "icon": "code-json",
+        "dialog": false
+    },
+    "css": {
+        "name": "Css",
+        "desc": "Beautify CSS",
+        "icon": "code-json",
+        "dialog": false
+    },
+    "less": {
+        "name": "Less",
+        "desc": "Beautify LESS",
+        "icon": "code-json",
+        "dialog": false
+    },
+    "scss": {
+        "name": "Scss",
+        "desc": "Beautify SCSS",
+        "icon": "sass",
+        "dialog": false
+    },
+    "markdown": {
+        "name": "Markdown",
+        "desc": "Beautify Markdown",
+        "icon": "language-markdown",
+        "dialog": false
+    },
+    "typescript": {
+        "name": "Typescript",
+        "desc": "Beautify TypeScript",
+        "icon": "language-typescript",
+        "dialog": false
+    },
+    "flow": {
+        "name": "Flow",
+        "desc": "Beautify Flow",
+        "icon": "code-json",
+        "dialog": false
+    },
+    "angular": {
+        "name": "Angular",
+        "desc": "Beautify Angular",
+        "icon": "angular",
+        "dialog": false
+    },
+    "vue": {
+        "name": "Vue",
+        "desc": "Beautify Vue",
+        "icon": "vuejs",
+        "dialog": false
+    },
+    "graphql": {
+        "name": "Graphql",
+        "desc": "Beautify GraphQL",
+        "icon": "code-json",
+        "dialog": false
+    },
+    "yaml": {
+        "name": "Yaml",
+        "desc": "Beautify YAML",
+        "icon": "code-json",
+        "dialog": false
+    }
+}
