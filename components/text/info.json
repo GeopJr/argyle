@@ -1,0 +1,50 @@
+{
+    "downcase": {
+        "name": "Downcase",
+        "desc": "Lowercase input text",
+        "icon": "format-text-rotation-down",
+        "dialog": false
+    },
+    "upcase": {
+        "name": "Upcase",
+        "desc": "Uppercase input text",
+        "icon": "format-text-rotation-up",
+        "dialog": false
+    },
+    "capitalize": {
+        "name": "Capitalize",
+        "desc": "Capitalize input text",
+        "icon": "text-short",
+        "dialog": false
+    },
+    "reverse": {
+        "name": "Reverse",
+        "desc": "Reverse input text",
+        "icon": "sort-reverse-variant",
+        "dialog": false
+    },
+    "countCharacters": {
+        "name": "Count Characters",
+        "desc": "Count the amount of characters input text has",
+        "icon": "format-text-variant",
+        "dialog": false
+    },
+    "countWords": {
+        "name": "Count Words",
+        "desc": "Count the words of characters input text has",
+        "icon": "keyboard-space",
+        "dialog": false
+    },
+    "clappy": {
+        "name": "Clappy",
+        "desc": "Clap 👏 between 👏 words",
+        "icon": "handshake",
+        "dialog": false
+    },
+    "mock": {
+        "name": "Mock",
+        "desc": "MoCk iNpUt tExT",
+        "icon": "swim",
+        "dialog": false
+    }
+}
