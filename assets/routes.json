@@ -1,0 +1,52 @@
+[
+    {
+      "icon": "mdi-home",
+      "title": "Home",
+      "to": "/"
+    },
+    {
+        "icon": "mdi-format-text",
+      "title": "Text Tools",
+      "to": "/text"
+    },
+    {
+      "icon": "mdi-format-paint",
+      "title": "Beautify",
+      "to": "/beautify"
+    },
+    {
+        "icon": "mdi-lock",
+      "title": "Encryption Tools",
+      "to": "/encryption"
+    },
+    {
+        "icon": "mdi-image",
+      "title": "Image Tools",
+      "to": "/image"
+    },
+    {
+        "icon": "mdi-hammer-wrench",
+      "title": "Compilers",
+      "to": "/compilers"
+    },
+    {
+        "icon": "mdi-github",
+      "title": "GitHub Tools",
+      "to": "/github"
+    },
+    {
+        "icon": "mdi-gamepad-variant",
+      "title": "Gaming Tools",
+      "to": "/gaming"
+    },
+    {
+        "icon": "mdi-clock",
+      "title": "Time Tools",
+      "to": "/time"
+    },
+    {
+        "icon": "mdi-dice-multiple",
+      "title": "Other Tools",
+      "to": "/other"
+    }
+  ]
