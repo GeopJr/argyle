@@ -1,0 +1,35 @@
+{
+    "crystal": {
+        "name": "Crystal",
+        "desc": "Compile Crystal",
+        "icon": "code-json",
+        "dialog": false,
+        "external": true
+    },
+    "ruby": {
+        "name": "Ruby",
+        "desc": "Compile Ruby",
+        "icon": "language-ruby",
+        "dialog": false,
+        "external": true
+    },
+    "c": {
+        "name": "C",
+        "desc": "Compile C",
+        "icon": "language-c",
+        "dialog": false,
+        "external": true
+    },
+    "less": {
+        "name": "Less",
+        "desc": "Compile Less",
+        "icon": "code-json",
+        "dialog": false
+    },
+    "sass": {
+        "name": "Sass",
+        "desc": "Compile SASS/SCSS",
+        "icon": "sass",
+        "dialog": false
+    }
+}
