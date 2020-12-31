@@ -53,10 +53,15 @@ export default {
   },
   buildModules: [
     '@nuxtjs/eslint-module',
-    ['@nuxtjs/vuetify', { treeShake: true }]
+    ['@nuxtjs/vuetify', { customVariables: ['~/assets/variables.scss'], treeShake: true }]
   ],
   generate: { fallback: '404.html' },
   vuetify: {
+    breakpoint: {
+      thresholds: {
+        xl: 12000
+      }
+    },
     theme: {
       dark: true,
       themes: {
