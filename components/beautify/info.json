@@ -35,12 +35,6 @@
         "icon": "sass",
         "dialog": false
     },
-    "markdown": {
-        "name": "Markdown",
-        "desc": "Beautify Markdown",
-        "icon": "language-markdown",
-        "dialog": false
-    },
     "typescript": {
         "name": "Typescript",
         "desc": "Beautify TypeScript",
@@ -51,6 +45,18 @@
         "name": "Flow",
         "desc": "Beautify Flow",
         "icon": "code-json",
+        "dialog": false
+    },
+    "markdown": {
+        "name": "Markdown",
+        "desc": "Beautify Markdown",
+        "icon": "language-markdown",
+        "dialog": false
+    },
+    "php": {
+        "name": "Php",
+        "desc": "Beautify PHP",
+        "icon": "language-php",
         "dialog": false
     },
     "angular": {
