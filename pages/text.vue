@@ -12,7 +12,7 @@
           <v-icon class="accent--text mr-2">
             mdi-{{ tool.icon }}
           </v-icon>
-          {{ tool.name }}
+          {{ tool.name.toUpperCase() }}
           <v-spacer />
           <v-icon v-if="tool.external" class="accent--text">
             mdi-signal-variant
@@ -48,6 +48,7 @@
 
 <script>
 import Info from '@/components/text/info.json'
+
 import Downcase from '@/components/text/Downcase'
 import Upcase from '@/components/text/Upcase'
 import Capitalize from '@/components/text/Capitalize'
