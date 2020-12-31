@@ -1,0 +1,14 @@
+{
+    "currentUnixMS": {
+        "name": "Currentunixms",
+        "desc": "Current UNIX MS",
+        "icon": "timelapse",
+        "dialog": false
+    },
+    "discordsnowflake": {
+        "name": "Discordsnowflake",
+        "desc": "Convert any Discord ID to an ISO timestamp",
+        "icon": "discord",
+        "dialog": false
+    }
+}
