@@ -1,0 +1,9 @@
+{
+    "mcskin": {
+        "name": "Mcskin",
+        "desc": "Get the skin of the user the UUID belongs to",
+        "icon": "minecraft",
+        "dialog": false,
+        "external": true
+    }
+}
