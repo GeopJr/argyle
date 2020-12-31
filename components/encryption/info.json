@@ -1,0 +1,56 @@
+{
+    "t2base64": {
+        "name": "Text2base64",
+        "desc": "Encode text to base64",
+        "icon": "lock",
+        "dialog": false
+    },
+    "base642t": {
+        "name": "Base642text",
+        "desc": "Decode base64 to text",
+        "icon": "lock-open",
+        "dialog": false
+    },
+    "md5": {
+        "name": "Md5",
+        "desc": "Hash text using md5",
+        "icon": "lock",
+        "dialog": false
+    },
+    "t2aes": {
+        "name": "Text2aes",
+        "desc": "Encrypt text using AES",
+        "icon": "lock",
+        "dialog": false
+    },
+    "aes2t": {
+        "name": "Aes2text",
+        "desc": "Decrypt AES encrypted text",
+        "icon": "lock-open",
+        "dialog": false
+    },
+    "sha256": {
+        "name": "Sha256",
+        "desc": "Hash text using sha256",
+        "icon": "lock",
+        "dialog": false
+    },
+    "t2rabbit": {
+        "name": "Text2rabbit",
+        "desc": "Encrypt text using Rabbit",
+        "icon": "lock",
+        "dialog": false
+    },
+    "rabbit2t": {
+        "name": "Rabbit2text",
+        "desc": "Decrypt Rabbit encrypted text",
+        "icon": "lock-open",
+        "dialog": false
+    },
+    "sha1": {
+        "name": "Sha1",
+        "desc": "Hash text using sha1",
+        "icon": "lock",
+        "dialog": false
+    }
+}
