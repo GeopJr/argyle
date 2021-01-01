@@ -1,8 +1,10 @@
 spec:
   name: argyle
-  static_sites:
-  - environment_slug: html
-    git:
-      branch: gh-pages
-      repo_clone_url: https://github.com/GeopJr/argyle.git
+  services:
+  - build_command: yarn generate
+    environment_slug: node-js
+    github:
+      branch: main
+      repo: GeopJr/argyle
     name: argyle
+    run_command: yarn start

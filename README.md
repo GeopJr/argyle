@@ -60,7 +60,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## 😻 Extra
 
-[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/GeopJr/argyle/tree/gh-pages)
+[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/GeopJr/argyle/tree/main)
 
 <a href="https://github.com/GeopJr/argyle/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=GeopJr/argyle" />
