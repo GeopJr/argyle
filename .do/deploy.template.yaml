@@ -1,0 +1,8 @@
+spec:
+  name: argyle
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: gh-pages
+      repo_clone_url: https://github.com/GeopJr/argyle.git
+    name: argyle
