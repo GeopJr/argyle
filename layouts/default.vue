@@ -44,6 +44,7 @@
               height="50"
               width="50"
               src="argyle.svg"
+              class="mt-2"
               v-on="on"
             >
           </nuxt-link>
@@ -110,5 +111,8 @@ html {
   background-image: url(../static/argyle-wire.svg);
   background-position: bottom -50px right -400px;
   background-size: 800px;
+  @media (max-width: 600px) {
+    background-position: bottom -500px right -600px;
+  }
 }
 </style>
