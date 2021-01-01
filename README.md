@@ -6,9 +6,9 @@
 <p align="center">
   <br />
     <a href="https://github.com/marketplace/actions/action-accessibility"><img src="https://img.shields.io/badge/ACTION-ACCESSIBILITY-396baf.svg?style=for-the-badge&labelColor=f8eae3" alt="action accessibility" /></a>
-    <a href="https://github.com/GeopJr/argyle/actions"><img src="https://img.shields.io/github/workflow/status/geopjr/argyle/ci?labelColor=f8eae3&style=for-the-badge" alt="ci action status" /></a>
     <a href="https://github.com/GeopJr/argyle/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?style=for-the-badge&labelColor=f8eae3" alt="MIT" /></a>
     <a href="https://github.com/GeopJr/argyle/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-000000.svg?style=for-the-badge&labelColor=f8eae3" alt="MIT" /></a>
+    <a href="https://github.com/GeopJr/argyle/actions"><img src="https://img.shields.io/github/workflow/status/geopjr/argyle/ci?labelColor=f8eae3&style=for-the-badge" alt="ci action status" /></a>
 </p>
 
 # 
@@ -70,8 +70,8 @@ Made with [contributors-img](https://contrib.rocks).
 
 This was made for the [DEV.TO DO Hackathon](https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k).
 
-<img align="left" height="250" alt="ferris minimal" src="https://i.imgur.com/g1RdxF2.png" />
+<img align="left" height="260" alt="ferris minimal" src="https://i.imgur.com/g1RdxF2.png" />
 
 ## Thanks for visiting!
 ## Feel free to open an issue requesting a tool!
-<img alt="lighthouse stats" src="https://i.imgur.com/wW53uLU.png" width="450">
+<img alt="lighthouse stats" src="https://i.imgur.com/wW53uLU.png" width="350">
