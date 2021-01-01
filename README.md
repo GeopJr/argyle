@@ -7,7 +7,6 @@
   <br />
     <a href="https://github.com/marketplace/actions/action-accessibility"><img src="https://img.shields.io/badge/ACTION-ACCESSIBILITY-396baf.svg?style=for-the-badge&labelColor=f8eae3" alt="action accessibility" /></a>
     <a href="https://github.com/GeopJr/argyle/actions"><img src="https://img.shields.io/github/workflow/status/geopjr/argyle/ci?labelColor=f8eae3&style=for-the-badge" alt="ci action status" /></a>
-    <a href="https://github.com/GeopJr/argyle/actions"><img src="https://img.shields.io/github/workflow/status/geopjr/argyle/github%20pages?style=for-the-badge&labelColor=f8eae3" alt="pages action status" /></a>
     <a href="https://github.com/GeopJr/argyle/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?style=for-the-badge&labelColor=f8eae3" alt="MIT" /></a>
     <a href="https://github.com/GeopJr/argyle/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-000000.svg?style=for-the-badge&labelColor=f8eae3" alt="MIT" /></a>
 </p>
