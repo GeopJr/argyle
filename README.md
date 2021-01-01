@@ -16,15 +16,11 @@
 
 ## 🐱 What is this???
 
-#
-
 Argyle is a collection of tools you might come across online. The difference is that unlike most of them, everything gets executed **client-side**. This way nothing leaves your computer and you get to keep your **privacy**! Oh, this also means that you can use *most* of the tools **offline**! (It also comes with a cool **PWA**).
 
 #
 
 ## 😼 How do I build it??
-
-#
 
 ```bash
 # install dependencies
@@ -46,8 +42,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## 🙀 Screenshot?!
 
-#
-
 <p align="center">
     <img alt="screenshot" src="https://i.imgur.com/5cjMyoo.png">
 </p>
@@ -55,8 +49,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 #
 
 ## 😽 How can I help?!?
-
-#
 
 1. Read the [Code of Conduct](https://github.com/GeopJr/argyle/blob/main/CODE_OF_CONDUCT.md)
 2. Fork it ( https://github.com/GeopJr/argyle/fork )
@@ -68,8 +60,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 #
 
 ## 😻 Extra
-
-#
 
 [![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/GeopJr/argyle/tree/gh-pages)
 
