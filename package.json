@@ -24,7 +24,7 @@
     "javascript-obfuscator": "^2.10.0",
     "nuxt": "^2.14.6",
     "prettier": "^2.2.1",
-    "tiny-sass-compiler": "^0.11.0"
+    "tiny-sass-compiler": "^0.11.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^5.0.0",
