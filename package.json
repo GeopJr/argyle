@@ -1,7 +1,9 @@
 {
   "name": "argyle",
   "version": "1.0.0",
+  "description": "An offline collection of online tools",
   "private": true,
+  "author": "GeopJr",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -13,10 +15,13 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
+    "@nastyox/rando.js": "^2.0.5",
     "@prettier/plugin-php": "^0.16.1",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "crypto-js": "^4.0.0",
+    "csso": "^4.2.0",
+    "javascript-obfuscator": "^2.10.0",
     "nuxt": "^2.14.6",
     "prettier": "^2.2.1",
     "tiny-sass-compiler": "^0.11.0"
@@ -24,6 +29,7 @@
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.1.0",
     "@nuxtjs/eslint-module": "^2.0.0",
+    "@nuxtjs/pwa": "^3.3.3",
     "@nuxtjs/vuetify": "^1.11.2",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.10.0",
