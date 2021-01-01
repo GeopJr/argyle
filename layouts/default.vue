@@ -10,6 +10,7 @@
         <v-list-item
           v-for="(item, i) in items"
           :key="i"
+          aria-label="item.aria"
           :to="item.to"
           router
           exact
@@ -28,13 +29,30 @@
       fixed
       app
     >
-      <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
+      <v-app-bar-nav-icon aria-label="Tool Category Menu" @click.stop="drawer = !drawer" />
       <v-spacer />
       <v-toolbar-title v-text="title" />
       <v-spacer />
+      <v-tooltip bottom>
+        <template v-slot:activator="{ on, attrs }">
+          <nuxt-link
+            to="/"
+          >
+            <img
+              alt="logo"
+              v-bind="attrs"
+              height="50"
+              width="50"
+              src="argyle.svg"
+              v-on="on"
+            >
+          </nuxt-link>
+        </template>
+        <span>Home</span>
+      </v-tooltip>
     </v-app-bar>
     <transition name="fade" appear>
-      <v-main>
+      <v-main class="ferris">
         <v-container fill-height>
           <nuxt />
         </v-container>
@@ -43,7 +61,7 @@
     <v-footer app absolute rounded padless>
       <v-card flat tile class="text-center c-footer">
         <v-card-text class="pa-3">
-          <strong class="accent--text">&copy;</strong> {{ new Date().getFullYear() }} - <strong><a :href="me" style="text-decoration: none;">GeopJr</a></strong> with <v-icon class="accent--text" medium>
+          <strong class="accent--text">&copy;</strong> {{ new Date().getFullYear() }} - <strong><a :href="me" style="color: #a89df9; text-decoration: none;">GeopJr</a></strong> with <v-icon class="accent--text" medium>
             mdi-heart
           </v-icon>,
           <v-icon class="accent--text" medium>
@@ -87,5 +105,10 @@ export default {
 }
 html {
   overflow: auto !important;
+}
+.ferris {
+  background-image: url(../static/argyle-wire.svg);
+  background-position: bottom -50px right -400px;
+  background-size: 800px;
 }
 </style>

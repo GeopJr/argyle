@@ -2,41 +2,55 @@
   {
     "icon": "mdi-home",
     "title": "Home",
-    "to": "/"
+    "to": "/",
+    "aria": "Home"
   },
   {
     "icon": "mdi-format-text",
     "title": "Text Tools",
-    "to": "/text"
+    "to": "/text",
+    "aria": "Text Tools"
   },
   {
     "icon": "mdi-format-paint",
     "title": "Beautify",
-    "to": "/beautify"
+    "to": "/beautify",
+    "aria": "Beautify Tools"
+  },
+  {
+    "icon": "mdi-compare-vertical",
+    "title": "Minify",
+    "to": "/minify",
+    "aria": "Minify Tools"
   },
   {
     "icon": "mdi-lock",
     "title": "Encryption Tools",
-    "to": "/encryption"
+    "to": "/encryption",
+    "aria": "Encryption Tools"
   },
   {
     "icon": "mdi-hammer-wrench",
     "title": "Compilers",
-    "to": "/compilers"
+    "to": "/compilers",
+    "aria": "Compiling Tools"
   },
   {
     "icon": "mdi-gamepad-variant",
     "title": "Gaming Tools",
-    "to": "/gaming"
+    "to": "/gaming",
+    "aria": "Gaming Tools"
   },
   {
     "icon": "mdi-clock",
     "title": "Time Tools",
-    "to": "/time"
+    "to": "/time",
+    "aria": "Time Tools"
   },
   {
     "icon": "mdi-dice-multiple",
-    "title": "Random",
-    "to": "/random"
+    "title": "Other",
+    "to": "/other",
+    "aria": "Other Tools"
   }
 ]
