@@ -83,7 +83,19 @@ export default {
   },
   data: () => ({
     tools: Info
-  })
+  }),
+  head () {
+    const title = 'Beautify'
+    const desc = title + 'Tools'
+    return {
+      title,
+      meta: [
+        { hid: 'description', name: 'description', content: desc },
+        { name: 'og:description', content: desc },
+        { name: 'og:title', content: title + ' - Argyle' }
+      ]
+    }
+  }
 }
 </script>
 
