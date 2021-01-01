@@ -1,0 +1,14 @@
+{
+    "obfuscator": {
+        "name": "Obfuscator",
+        "desc": "Run javascript-obfuscator",
+        "icon": "eye-off",
+        "dialog": false
+    },
+    "rando": {
+        "name": "Rando",
+        "desc": "Run rando.js",
+        "icon": "dice-multiple",
+        "dialog": false
+    }
+}
