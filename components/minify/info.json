@@ -1,0 +1,8 @@
+{
+    "css": {
+        "name": "Css",
+        "desc": "Minify CSS",
+        "icon": "code-json",
+        "dialog": false
+    }
+}
