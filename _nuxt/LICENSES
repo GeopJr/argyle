@@ -132,10 +132,10 @@ PERFORMANCE OF THIS SOFTWARE.
    */
 
 /**
- * Less - Leaner CSS v4.0.0
+ * Less - Leaner CSS v4.1.0
  * http://lesscss.org
  * 
- * Copyright (c) 2009-2020, Alexis Sellier <self@cloudhead.net>
+ * Copyright (c) 2009-2021, Alexis Sellier <self@cloudhead.net>
  * Licensed under the Apache-2.0 License.
  *
  * @license Apache-2.0
