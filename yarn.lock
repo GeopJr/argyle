@@ -5122,10 +5122,10 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-javascript-obfuscator@^2.10.2:
-  version "2.10.2"
-  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.10.2.tgz#bcbc5b0af25067a04599b26aaa9cf8aed6f9f947"
-  integrity sha512-2mzs63ji0v1HEWCC36tAvv9Rxuxwnt5Ob1HZ+UgyZ+er3BA8eYIWu4Gasagm09zMyiO9NxZ9Lu4USFF2x/X/Zg==
+javascript-obfuscator@^2.10.3:
+  version "2.10.3"
+  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.10.3.tgz#d7dd7278a2f9431ca541c941fdc9c0e157ee1b36"
+  integrity sha512-zyP8KmjGnCkKNE1PYCJ69AkgOXCqiO/kci7fHJc73U9D9Se2E5V5vFd4ftBYihAXovudpJ3tpzbrxaK4IuAZRg==
   dependencies:
     "@javascript-obfuscator/escodegen" "2.1.1"
     "@nuxtjs/opencollective" "0.3.2"
