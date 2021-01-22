@@ -37,6 +37,6 @@
     "eslint": "^7.18.0",
     "eslint-plugin-nuxt": "^1.0.0",
     "less": "^4.1.0",
-    "less-loader": "^7.2.1"
+    "less-loader": "^7.3.0"
   }
 }
