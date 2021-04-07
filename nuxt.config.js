@@ -31,7 +31,7 @@ export default {
       { name: 'og:description', content: 'An offline collection of online tools' },
       { name: 'og:title', content: 'Argyle' },
       { name: 'og:type', content: 'website' },
-      { name: 'og:url', content: 'https://argyle.geopjr.xyz/' },
+      { name: 'og:url', content: 'https://argyle.geopjr.dev/' },
       { name: 'og:image:type', content: 'image/png' },
       { name: 'og:image', content: 'https://i.imgur.com/QKFC8cW.png' },
       // Apple
@@ -40,7 +40,7 @@ export default {
       { name: 'apple-mobile-web-app-capable', content: 'yes' }
     ],
     link: [
-      { rel: 'canonical', href: 'https://argyle.geopjr.xyz' },
+      { rel: 'canonical', href: 'https://argyle.geopjr.dev' },
       // Favicons
       { rel: 'icon', sizes: '32x32', type: 'image/png', href: '/favicons/favicon-32x32.png?v=2' },
       { rel: 'icon', sizes: '16x16', type: 'image/png', href: '/favicons/favicon-16x16.png?v=2' },
@@ -73,7 +73,7 @@ export default {
       ogTitle: 'Argyle',
       ogDescription: 'An offline collection of online tools',
       ogImage: 'https://i.imgur.com/QKFC8cW.png',
-      ogUrl: 'https://argyle.geopjr.xyz'
+      ogUrl: 'https://argyle.geopjr.dev'
 
     },
     manifest: {

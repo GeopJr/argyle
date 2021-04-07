@@ -55,7 +55,7 @@
 </template>
 
 <script>
-import { minify as Minify } from 'uglify-js'
+import Minify from 'uglify-js/lib/minify'
 
 export default {
   props: {

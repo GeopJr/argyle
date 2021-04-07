@@ -66,7 +66,7 @@ export default {
   }),
   methods: {
     convert () {
-      this.inputTime = 'https://github.com/vuejs/vue/issues/11126\n\nhttps://snowflake.geopjr.xyz/?id=' + this.input
+      this.inputTime = 'https://github.com/vuejs/vue/issues/11126\n\nhttps://github.com/GeopJr/snowflake.php'
     }
   }
 }

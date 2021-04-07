@@ -26,7 +26,8 @@
     "javascript-obfuscator": "^2.11.0",
     "nuxt": "^2.15.4",
     "prettier": "^2.2.1",
-    "tiny-sass-compiler": "^0.12.1"
+    "tiny-sass-compiler": "^0.12.1",
+    "uglify-js": "^3.13.3"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^6.0.0",
@@ -37,6 +38,6 @@
     "eslint": "^7.23.0",
     "eslint-plugin-nuxt": "^1.0.0",
     "less": "^4.1.1",
-    "less-loader": "^8.0.0"
+    "less-loader": "7.3.0"
   }
 }

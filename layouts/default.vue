@@ -28,6 +28,7 @@
     <v-app-bar
       fixed
       app
+      class="rounded-br-xl"
     >
       <v-app-bar-nav-icon aria-label="Tool Category Menu" @click.stop="drawer = !drawer" />
       <v-spacer />
@@ -83,7 +84,7 @@ export default {
   data () {
     return {
       drawer: false,
-      me: 'https://geopjr.xyz/',
+      me: 'https://geopjr.dev/',
       title: 'Argyle',
       items: Routes
     }
