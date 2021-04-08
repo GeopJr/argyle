@@ -2095,10 +2095,10 @@ acorn-walk@^8.0.0:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-8.0.2.tgz#d4632bfc63fd93d0f15fd05ea0e984ffd3f5a8c3"
   integrity sha512-+bpA9MJsHdZ4bgfDcpk0ozQyhhVct7rzOmO0s1IIr0AGGgKBljss8n2zp11rRP2wid5VGeh04CgeKzgat5/25A==
 
-acorn@8.0.5, acorn@^8.0.4:
-  version "8.0.5"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.0.5.tgz#a3bfb872a74a6a7f661bc81b9849d9cac12601b7"
-  integrity sha512-v+DieK/HJkJOpFBETDJioequtc3PfxsWMaxIdIwujtF7FEV/MAyDQLlm6/zPvr7Mix07mLh6ccVwIsloceodlg==
+acorn@8.1.0, acorn@^8.0.4:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.1.0.tgz#52311fd7037ae119cbb134309e901aa46295b3fe"
+  integrity sha512-LWCF/Wn0nfHOmJ9rzQApGnxnvgfROzGilS8936rqN/lfcYkY9MYZzdMqN+2NJ4SlTc+m5HiSa+kNfDtI64dwUA==
 
 acorn@^6.4.1:
   version "6.4.2"
@@ -3089,10 +3089,10 @@ colorette@^1.2.1:
   resolved "https://registry.yarnpkg.com/colorette/-/colorette-1.2.1.tgz#4d0b921325c14faf92633086a536db6e89564b1b"
   integrity sha512-puCDz0CzydiSYOrnXpz/PKd69zRrribezjtE9yd4zvytoRc8+RY/KJPvtPFKZS3E3wP6neGyMe0vOTlHO5L3Pw==
 
-commander@7.1.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-7.1.0.tgz#f2eaecf131f10e36e07d894698226e36ae0eb5ff"
-  integrity sha512-pRxBna3MJe6HKnBGsDyMv8ETbptw3axEdYHoqNh7gu5oDcew8fs0xnivZGm06Ogk8zGAJ9VX+OPEr2GXEQK4dg==
+commander@7.2.0:
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-7.2.0.tgz#a36cb57d0b501ce108e4d20559a150a391d97ab7"
+  integrity sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==
 
 commander@^2.19.0, commander@^2.20.0:
   version "2.20.3"
@@ -5525,19 +5525,19 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-javascript-obfuscator@^2.11.0:
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.11.0.tgz#2dae30ba7a0655bd910b05fa132e609e444adfed"
-  integrity sha512-2coAHPC0F+GJS3AjqQtDLywaZgQeNI995y5F82IwbM0aIG++pSffEAxBNCFlhB9WjFSqjjN2AT/L0oxLbK5AVw==
+javascript-obfuscator@^2.11.1:
+  version "2.11.1"
+  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.11.1.tgz#17c4b4f913c38d6d55079a14cbeff3550cc0818a"
+  integrity sha512-X/3MsvlT7XEsAdK42aiCalL5ePQg6CLPeaDJk0L4I55NbEJeql5SaNPrx7rvuERM5GOiUmRhMu2F38mV3ScTLg==
   dependencies:
     "@javascript-obfuscator/escodegen" "2.1.1"
     "@nuxtjs/opencollective" "0.3.2"
-    acorn "8.0.5"
+    acorn "8.1.0"
     assert "2.0.0"
     chalk "4.1.0"
     chance "1.1.7"
     class-validator "0.13.1"
-    commander "7.1.0"
+    commander "7.2.0"
     eslint-scope "5.1.1"
     estraverse "5.2.0"
     fast-deep-equal "3.1.3"
