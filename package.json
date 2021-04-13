@@ -23,7 +23,7 @@
     "core-js": "^3.10.1",
     "crypto-js": "^4.0.0",
     "csso": "^4.2.0",
-    "javascript-obfuscator": "^2.11.1",
+    "javascript-obfuscator": "^2.12.0",
     "nuxt": "^2.15.4",
     "prettier": "^2.2.1",
     "tiny-sass-compiler": "^0.12.1",
