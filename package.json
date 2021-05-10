@@ -25,7 +25,7 @@
     "csso": "^4.2.0",
     "javascript-obfuscator": "^2.12.0",
     "nuxt": "^2.15.5",
-    "prettier": "^2.2.1",
+    "prettier": "^2.3.0",
     "tiny-sass-compiler": "^0.12.1",
     "uglify-js": "^3.13.5"
   },
