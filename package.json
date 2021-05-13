@@ -24,7 +24,7 @@
     "crypto-js": "^4.0.0",
     "csso": "^4.2.0",
     "javascript-obfuscator": "^2.12.0",
-    "nuxt": "^2.15.5",
+    "nuxt": "^2.15.6",
     "prettier": "^2.3.0",
     "tiny-sass-compiler": "^0.12.1",
     "uglify-js": "^3.13.6"
