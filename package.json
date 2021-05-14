@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@nastyox/rando.js": "^2.0.5",
-    "@prettier/plugin-php": "^0.16.2",
+    "@prettier/plugin-php": "^0.16.3",
     "axios": "^0.21.1",
     "core-js": "^3.12.1",
     "crypto-js": "^4.0.0",
