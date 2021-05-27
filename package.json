@@ -30,7 +30,7 @@
     "uglify-js": "^3.13.7"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^6.0.0",
+    "@nuxtjs/eslint-config": "^6.0.1",
     "@nuxtjs/eslint-module": "^3.0.2",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/vuetify": "^1.11.3",
