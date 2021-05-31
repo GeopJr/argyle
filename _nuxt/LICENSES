@@ -166,6 +166,12 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 
+/*! For license information please see index.browser.js.LICENSE.txt */
+
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
 /*!
   * vue-router v3.5.1
   * (c) 2021 Evan You
@@ -177,12 +183,6 @@ PERFORMANCE OF THIS SOFTWARE.
  * (c) 2014-2020 Evan You
  * Released under the MIT License.
  */
-
-
-/*! For license information please see index.browser.js.LICENSE.txt */
-
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
   THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
