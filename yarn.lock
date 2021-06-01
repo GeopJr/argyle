@@ -1302,19 +1302,19 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@javascript-obfuscator/escodegen@2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@javascript-obfuscator/escodegen/-/escodegen-2.1.1.tgz#a79c3ab3a13cd87f4921003f0f821a09fc0f5d93"
-  integrity sha512-d5TIrhngNyqphUPgjWRVcepw55+aIrN2YX6BHy+4XOTq3/6AZCFj18Ym0tYSDm8T7+hLN6Culif18cepF/NpDQ==
+"@javascript-obfuscator/escodegen@2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@javascript-obfuscator/escodegen/-/escodegen-2.2.0.tgz#c09fc83a9e3ff7b5555e37b9ac23947221dc8257"
+  integrity sha512-vyBqXZqAHWe40dA5tVsXC85KJ0eWgTwPrxZdOtaHH0di7tkb8G8x8MEQs0HbbDdONN7M5M45fyVpEF5aR1++Dw==
   dependencies:
+    "@javascript-obfuscator/estraverse" "^5.3.0"
     esprima "^4.0.1"
-    estraverse "^5.2.0"
     esutils "^2.0.2"
     optionator "^0.8.1"
   optionalDependencies:
     source-map "~0.6.1"
 
-"@javascript-obfuscator/estraverse@5.3.0":
+"@javascript-obfuscator/estraverse@5.3.0", "@javascript-obfuscator/estraverse@^5.3.0":
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/@javascript-obfuscator/estraverse/-/estraverse-5.3.0.tgz#eadd3c00ede6a05b75aa585c7b7a3ac58adb1755"
   integrity sha512-SxIFtV5/wlXYS7G3zLVj7CddLolX8Bm/hr68fiyNL3MyG2k4FwF9B5Z5GTpVLhw2EELYNwyoYBvFlR4gGnQPdw==
@@ -2162,10 +2162,10 @@ acorn-walk@^8.0.0:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-8.0.2.tgz#d4632bfc63fd93d0f15fd05ea0e984ffd3f5a8c3"
   integrity sha512-+bpA9MJsHdZ4bgfDcpk0ozQyhhVct7rzOmO0s1IIr0AGGgKBljss8n2zp11rRP2wid5VGeh04CgeKzgat5/25A==
 
-acorn@8.2.2, acorn@^8.0.4:
-  version "8.2.2"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.2.2.tgz#c4574e4fea298d6e6ed4b85ab844b06dd59f26d6"
-  integrity sha512-VrMS8kxT0e7J1EX0p6rI/E0FbfOVcvBpbIqHThFv+f8YrZIlMfVotYcXKVPmTvPW8sW5miJzfUFrrvthUZg8VQ==
+acorn@8.3.0, acorn@^8.0.4:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.3.0.tgz#1193f9b96c4e8232f00b11a9edff81b2c8b98b88"
+  integrity sha512-tqPKHZ5CaBJw0Xmy0ZZvLs1qTV+BNFSyvn77ASXkpBNfIRk8ev26fKrD9iLGwGA9zedPao52GSHzq8lyZG0NUw==
 
 acorn@^6.4.1:
   version "6.4.2"
@@ -5797,15 +5797,15 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-javascript-obfuscator@^2.13.0:
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.13.0.tgz#b57f5b36b46349e52be13016bad2701880eb49fe"
-  integrity sha512-OvNdTFqeSPuMW6nUKxSsDa7ft2SqBRMh8jorknCQEA7T8m6Hangn3GdI4G2F6DfXUpoDj7Q7na/NNufMJmvTNQ==
+javascript-obfuscator@^2.14.0:
+  version "2.14.0"
+  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.14.0.tgz#1f36ee9434c9eeee361b1d4f990f9225967f1cb4"
+  integrity sha512-l2trWgW0bpa+Vt+37Y0FP1a2FJ23ITzWLSwD3Euup2ZdEG48qhR3sCWgINEYipPNMQTFRG3Y+2OTEifW7UIzpQ==
   dependencies:
-    "@javascript-obfuscator/escodegen" "2.1.1"
+    "@javascript-obfuscator/escodegen" "2.2.0"
     "@javascript-obfuscator/estraverse" "5.3.0"
     "@nuxtjs/opencollective" "0.3.2"
-    acorn "8.2.2"
+    acorn "8.3.0"
     assert "2.0.0"
     chalk "4.1.1"
     chance "1.1.7"
