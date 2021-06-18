@@ -5794,10 +5794,10 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-javascript-obfuscator@^2.15.3:
-  version "2.15.3"
-  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.15.3.tgz#f62a69447c39a5d79cc56a931620bd5ea13a424b"
-  integrity sha512-wzxeyEdI2LkgOfPCNJRiQw1v7aie77VB7G5hK21GEOM9CtQ8c8dC4SR4Z/MUoaMCZj3Fq438eikna0Hk36UOMA==
+javascript-obfuscator@^2.15.4:
+  version "2.15.4"
+  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.15.4.tgz#5dd86d601f52ef02364e5f4b0e618c6c437db391"
+  integrity sha512-RdsYH+K8Yxub5khXnFm/twVAE1/EYYnygtcjybqNWJjCqKJ2cpPgCoAeYU78a3GKxnYOZc5Nml7nVnPjQSOmEw==
   dependencies:
     "@javascript-obfuscator/escodegen" "2.2.0"
     "@javascript-obfuscator/estraverse" "5.3.0"
