@@ -11,6 +11,9 @@
  */
 
 
+/*! For license information please see index.browser.js.LICENSE.txt */
+
+
 /*!
      * Determine if an object is a Buffer
      *
@@ -146,9 +149,6 @@
  */
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-
-/*! For license information please see index.browser.js.LICENSE.txt */
 
 
 /*! *****************************************************************************
