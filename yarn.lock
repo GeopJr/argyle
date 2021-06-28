@@ -1741,14 +1741,14 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.11.tgz#aeb16f50649a91af79dbe36574b66d0f9e4d9f71"
   integrity sha512-3NsZsJIA/22P3QUyrEDNA2D133H4j224twJrdipXN38dpnIOzAbUDtOwkcJ5pXmn75w7LSQDjA4tO9dm1XlqlA==
 
-"@prettier/plugin-php@^0.17.1":
-  version "0.17.1"
-  resolved "https://registry.yarnpkg.com/@prettier/plugin-php/-/plugin-php-0.17.1.tgz#0e543f937cc671c1ef4e49b3a78e746ef74597e5"
-  integrity sha512-TJIk6sH7ONtKO/ZNTCyDQl83kVbFQMtk7Z9ms4TczIqZhUTo07L0PLRfhcLTyG2ILnEOOjI+gKsaKsZjIkpaKw==
+"@prettier/plugin-php@^0.17.2":
+  version "0.17.2"
+  resolved "https://registry.yarnpkg.com/@prettier/plugin-php/-/plugin-php-0.17.2.tgz#33f30a640e0c3798c528a7e52b6153ad731c89f3"
+  integrity sha512-0TB3rrQgCELav68Rkk0EPoanJw4tiT879pSsG4AvuvEHtPBSVHgg+lgYSCCOmdfWfTXAa/lvq5c13r0sdt2vUQ==
   dependencies:
     linguist-languages "^7.5.1"
     mem "^8.0.0"
-    php-parser "git+https://github.com/glayzzle/php-parser.git#bb89fff9e636a991aa3ac931d5f8a66a365fccce"
+    php-parser "git+https://github.com/glayzzle/php-parser.git#cca83041d938b972c7ef74648f29de03777b0ea4"
 
 "@types/anymatch@*":
   version "1.3.1"
@@ -7179,10 +7179,10 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-"php-parser@git+https://github.com/glayzzle/php-parser.git#bb89fff9e636a991aa3ac931d5f8a66a365fccce":
+"php-parser@git+https://github.com/glayzzle/php-parser.git#cca83041d938b972c7ef74648f29de03777b0ea4":
   version "3.0.2"
-  uid bb89fff9e636a991aa3ac931d5f8a66a365fccce
-  resolved "git+https://github.com/glayzzle/php-parser.git#bb89fff9e636a991aa3ac931d5f8a66a365fccce"
+  uid cca83041d938b972c7ef74648f29de03777b0ea4
+  resolved "git+https://github.com/glayzzle/php-parser.git#cca83041d938b972c7ef74648f29de03777b0ea4"
 
 picomatch@^2.0.4, picomatch@^2.0.5, picomatch@^2.2.1:
   version "2.2.2"
