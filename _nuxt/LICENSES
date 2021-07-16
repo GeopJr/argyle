@@ -1,6 +1,3 @@
-/*! For license information please see index.browser.js.LICENSE.txt */
-
-
 /*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
@@ -149,6 +146,9 @@
  * (c) 2014-2020 Evan You
  * Released under the MIT License.
  */
+
+
+/*! For license information please see index.browser.js.LICENSE.txt */
 
 
 /*! *****************************************************************************
