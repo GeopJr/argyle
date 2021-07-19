@@ -135,6 +135,9 @@
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
+/*! For license information please see index.browser.js.LICENSE.txt */
+
+
 /*!
   * vue-router v3.5.1
   * (c) 2021 Evan You
@@ -146,9 +149,6 @@
  * (c) 2014-2020 Evan You
  * Released under the MIT License.
  */
-
-
-/*! For license information please see index.browser.js.LICENSE.txt */
 
 
 /*! *****************************************************************************
