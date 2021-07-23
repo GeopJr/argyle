@@ -27,7 +27,7 @@
     "nuxt": "^2.15.7",
     "prettier": "^2.3.2",
     "tiny-sass-compiler": "^0.12.1",
-    "uglify-js": "^3.13.10"
+    "uglify-js": "^3.14.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^6.0.1",
