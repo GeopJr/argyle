@@ -141,9 +141,6 @@ PERFORMANCE OF THIS SOFTWARE.
    */
 
 
-/*! For license information please see index.browser.js.LICENSE.txt */
-
-
 /*!
  * The buffer module from node.js, for the browser.
  *
@@ -152,6 +149,9 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
+/*! For license information please see index.browser.js.LICENSE.txt */
 
 
 /*!
