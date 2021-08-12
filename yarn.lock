@@ -9231,10 +9231,10 @@ timsort@^0.3.0:
   resolved "https://registry.yarnpkg.com/timsort/-/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
 
-tiny-sass-compiler@^0.12.1:
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/tiny-sass-compiler/-/tiny-sass-compiler-0.12.1.tgz#d99c59ec7a109fc21f7b8c8f50522f81fac3250c"
-  integrity sha512-RkAzK2e3yz28iAsrsfKaYAA5tJrkhiDzZDwEzoCoEgLUqwnbjQ//4n5GoaC64YVv7LvaPLbyQMIWeOz0E8EieQ==
+tiny-sass-compiler@^0.12.2:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/tiny-sass-compiler/-/tiny-sass-compiler-0.12.2.tgz#7ae0568ee4a3350ef4b9244120276c71018a2514"
+  integrity sha512-q+U3wF/RLjv0/KkAUiEdtHwiFMzlgyiyZDwfBbAIvBN8mwhmcfV7/1CA45rV0c7BtNbx4kbh7KagLEvZ2Cvtmg==
   dependencies:
     mkdirp "^1.0.4"
     source-map "^0.6.1"
