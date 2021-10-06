@@ -17,27 +17,27 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
-    "@nastyox/rando.js": "^2.0.5",
-    "@prettier/plugin-php": "^0.17.5",
-    "axios": "^0.22.0",
-    "core-js": "^3.18.2",
-    "crypto-js": "^4.1.1",
-    "csso": "^4.2.0",
-    "javascript-obfuscator": "^2.19.0",
-    "nuxt": "^2.15.8",
-    "prettier": "^2.4.1",
-    "tiny-sass-compiler": "^0.12.2",
-    "uglify-js": "^3.14.2"
+    "@nastyox/rando.js": "2.0.5",
+    "@prettier/plugin-php": "0.17.5",
+    "axios": "0.22.0",
+    "core-js": "3.18.2",
+    "crypto-js": "4.1.1",
+    "csso": "4.2.0",
+    "javascript-obfuscator": "2.19.0",
+    "nuxt": "2.15.8",
+    "prettier": "2.4.1",
+    "tiny-sass-compiler": "0.12.2",
+    "uglify-js": "3.14.2"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^6.0.1",
-    "@nuxtjs/eslint-module": "^3.0.2",
-    "@nuxtjs/pwa": "^3.3.5",
-    "@nuxtjs/vuetify": "^1.12.1",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
-    "eslint-plugin-nuxt": "^1.0.0",
-    "less": "^4.1.2",
+    "@nuxtjs/eslint-config": "6.0.1",
+    "@nuxtjs/eslint-module": "3.0.2",
+    "@nuxtjs/pwa": "3.3.5",
+    "@nuxtjs/vuetify": "1.12.1",
+    "babel-eslint": "10.1.0",
+    "eslint": "7.32.0",
+    "eslint-plugin-nuxt": "1.0.0",
+    "less": "4.1.2",
     "less-loader": "7.3.0"
   }
 }
