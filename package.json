@@ -38,6 +38,6 @@
     "eslint": "8.0.0",
     "eslint-plugin-nuxt": "2.0.0",
     "less": "4.1.2",
-    "less-loader": "10.0.1"
+    "less-loader": "10.1.0"
   }
 }
