@@ -1699,15 +1699,6 @@
     consola "^2.15.0"
     eslint-webpack-plugin "^2.4.1"
 
-"@nuxtjs/opencollective@0.3.2":
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/opencollective/-/opencollective-0.3.2.tgz#620ce1044f7ac77185e825e1936115bb38e2681c"
-  integrity sha512-um0xL3fO7Mf4fDxcqx9KryrB7zgRM5JSlvGN5AGkP6JLM5XEKyjeAiPbNxdXVXQ16isuAhYpvP88NgL2BGd6aA==
-  dependencies:
-    chalk "^4.1.0"
-    consola "^2.15.0"
-    node-fetch "^2.6.1"
-
 "@nuxtjs/pwa@3.3.5":
   version "3.3.5"
   resolved "https://registry.yarnpkg.com/@nuxtjs/pwa/-/pwa-3.3.5.tgz#db7c905536ebe8a464a347b6ae3215810642c044"
@@ -5873,14 +5864,13 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-javascript-obfuscator@3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-3.2.1.tgz#111cce5b91e5508790144c60794a7c3c5c00b5a7"
-  integrity sha512-ePt2yO/4DsW5nsc1WlsFdUUqaxmczAPnx/oDxfcoL++DoVP4bRHaCikZUhVWNrZ9DeX4ZAPon+zKxwM1oUKBIw==
+javascript-obfuscator@3.2.4:
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-3.2.4.tgz#30a2a9167bb81d9c01a4293c4b8c607f8f9f6499"
+  integrity sha512-KQppWqjWd+JDndOMFiC4dInYVFtQv4fAANueSvXteyujif/jNBYUOqkS4M1TNhUZ6UmbfniU+CCp9lkhCYjlww==
   dependencies:
     "@javascript-obfuscator/escodegen" "2.3.0"
     "@javascript-obfuscator/estraverse" "5.4.0"
-    "@nuxtjs/opencollective" "0.3.2"
     acorn "8.7.0"
     assert "2.0.0"
     chalk "4.1.2"
@@ -5895,6 +5885,7 @@ javascript-obfuscator@3.2.1:
     md5 "2.3.0"
     mkdirp "1.0.4"
     multimatch "5.0.0"
+    opencollective-postinstall "2.0.3"
     process "0.11.10"
     reflect-metadata "0.1.13"
     source-map-support "0.5.21"
@@ -6955,6 +6946,11 @@ onetime@^5.1.0, onetime@^5.1.2:
   integrity sha512-kbpaSSGJTWdAY5KPVeMOKXSrPtr8C8C7wodJbcsd51jRnmD+GZu8Y0VoU6Dm5Z4vWr0Ig/1NKuWRKf7j5aaYSg==
   dependencies:
     mimic-fn "^2.1.0"
+
+opencollective-postinstall@2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/opencollective-postinstall/-/opencollective-postinstall-2.0.3.tgz#7a0fff978f6dbfa4d006238fbac98ed4198c3259"
+  integrity sha512-8AV/sCtuzUeTo8gQK5qDZzARrulB3egtLzFgteqB2tcT4Mw7B8Kt7JcDHmltjz6FOAHsvTevk70gZEbhM4ZS9Q==
 
 opener@1.5.2, opener@^1.5.2:
   version "1.5.2"
