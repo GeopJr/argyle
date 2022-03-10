@@ -22,7 +22,7 @@
     "axios": "0.26.1",
     "core-js": "3.21.1",
     "crypto-js": "4.1.1",
-    "csso": "5.0.2",
+    "csso": "5.0.3",
     "javascript-obfuscator": "4.0.0",
     "nuxt": "2.15.8",
     "prettier": "2.5.1",
